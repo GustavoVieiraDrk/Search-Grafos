@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1601064952 source:c:\users\dark\documents\linguagem c projetos\arvores_e_grafos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Headers/busca_grafo.h"
+	"Headers/fila_dinamica.h"
+
+1600995669 c:\users\dark\documents\linguagem c projetos\arvores_e_grafos\headers\busca_grafo.h
+
+1412786116 c:\users\dark\documents\linguagem c projetos\arvores_e_grafos\headers\fila_dinamica.h
+
+1600996240 source:c:\users\dark\documents\linguagem c projetos\arvores_e_grafos\fila_dinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"Headers/fila_dinamica.h"
+
+1600996286 source:c:\users\dark\documents\linguagem c projetos\arvores_e_grafos\busca_grafo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Headers/busca_grafo.h"
+	"Headers/fila_dinamica.h"
+
+1600996240 source:c:\users\usuario\documents\codeblocks projects\grafos busca\grafos busca\arvores_e_grafos\fila_dinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"Headers/fila_dinamica.h"
+
+1412786116 c:\users\usuario\documents\codeblocks projects\grafos busca\grafos busca\arvores_e_grafos\headers\fila_dinamica.h
+
